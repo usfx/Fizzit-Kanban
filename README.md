@@ -1,2 +1,2 @@
 # Fizzit-Kanban
-e commerce website
+E commerce website - Quality check process
